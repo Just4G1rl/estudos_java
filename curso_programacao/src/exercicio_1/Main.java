@@ -2,6 +2,7 @@ package exercicio_1;
 import java.util.Locale;
 
 import exercicio_1.Produto;
+
 public class Main {
 	
 	public static void main(String[] args) {
