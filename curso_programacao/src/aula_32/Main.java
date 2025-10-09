@@ -18,6 +18,7 @@ public class Main {
 		conta.setValorConta(); 
 		
 		System.out.printf("O valor da conta é:%.2f%n", conta.getValorConta());
-				
+		
+		scn.close();
 	}
 }
